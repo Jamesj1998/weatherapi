@@ -1,0 +1,62 @@
+{
+  "Transfer-Encoding": "chunked",
+  "Connection": "keep-alive",
+  "Vary": "Accept-Encoding",
+  "CDN-PullZone": "93447",
+  "CDN-Uid": "8fa3a04a-75d9-4707-8056-b7b33c8ac7fe",
+  "CDN-RequestCountryCode": "GB",
+  "CDN-ProxyVer": "1.03",
+  "CDN-RequestPullSuccess": "True",
+  "CDN-RequestPullCode": "200",
+  "CDN-CachedAt": "06/19/2023 00:39:20",
+  "CDN-EdgeStorageId": "951",
+  "CDN-Status": "200",
+  "CDN-RequestId": "0c9e81382612ed7d74d3df216aa8565b",
+  "CDN-Cache": "MISS",
+  "Cache-Control": "public, max-age=180",
+  "Content-Type": "application/json",
+  "Date": "Mon, 19 Jun 2023 00:39:20 GMT",
+  "Server": "BunnyCDN-FR1-1074"
+}
+
+{
+    "location": {
+        "name": "Concord Regional Airport",
+        "region": "Concord",
+        "country": "United States of America",
+        "lat": 35.39,
+        "lon": -80.71,
+        "tz_id": "America/New_York",
+        "localtime_epoch": 1687135160,
+        "localtime": "2023-06-18 20:39"
+    },
+    "current": {
+        "last_updated_epoch": 1687134600,
+        "last_updated": "2023-06-18 20:30",
+        "temp_c": 28.0,
+        "temp_f": 82.4,
+        "is_day": 1,
+        "condition": {
+            "text": "Sunny",
+            "icon": "//cdn.weatherapi.com/weather/64x64/day/113.png",
+            "code": 1000
+        },
+        "wind_mph": 2.2,
+        "wind_kph": 3.6,
+        "wind_degree": 10,
+        "wind_dir": "N",
+        "pressure_mb": 1013.0,
+        "pressure_in": 29.9,
+        "precip_mm": 0.0,
+        "precip_in": 0.0,
+        "humidity": 48,
+        "cloud": 0,
+        "feelslike_c": 29.1,
+        "feelslike_f": 84.4,
+        "vis_km": 16.0,
+        "vis_miles": 9.0,
+        "uv": 7.0,
+        "gust_mph": 8.9,
+        "gust_kph": 14.4
+    }
+}
